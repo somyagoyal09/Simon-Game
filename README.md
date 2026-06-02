@@ -9,10 +9,10 @@ A fun and interactive Simon Says memory game built using HTML, CSS, and JavaScri
 Play Here: https://somyagoyal09.github.io/Simon_Game/
 
 ## Features
-- Random color sequence generation
-- Interactive button animations
-- Level progression system
-- Game over detection
-- Memory-based gameplay
+- Random color sequence generation.
+- Interactive button animations.
+- Level progression system.
+- Game over detection.
+- Memory-based gameplay.
 
 
